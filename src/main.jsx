@@ -6,7 +6,7 @@ import CheckAuth from "./components/CheckAuth.jsx";
 import Tickets from "./pages/Tickets.jsx";
 import TicketDetailsPage from "./pages/Ticket.jsx";
 import Login from "./pages/Login.jsx";
-import Signup from "./pages/Signup.jsx";
+import Signup from "./pages/SignUp.jsx";
 import Admin from "./pages/Admin.jsx";
 export const VITE_SERVER_URL = "http://localhost:3000/api";
 import { Provider } from "react-redux";
