@@ -8,7 +8,7 @@ import TicketDetailsPage from "./pages/Ticket.jsx";
 import Login from "./pages/Login.jsx";
 import Signup from "./pages/SignUp.jsx";
 import Admin from "./pages/Admin.jsx";
-export const VITE_SERVER_URL = "http://localhost:3000/api";
+export const VITE_SERVER_URL = "https://ticketai-backend.onrender.com/api";
 import { Provider } from "react-redux";
 import appStore, { persistor } from "./utils/store.js";
 import { PersistGate } from "redux-persist/integration/react";
