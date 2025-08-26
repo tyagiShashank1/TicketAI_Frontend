@@ -3,7 +3,7 @@ import { createRoot } from "react-dom/client";
 import "./index.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import CheckAuth from "./components/CheckAuth.jsx";
-import Tickets from "./pages/tickets.jsx";
+import Tickets from "./pages/Tickets.jsx";
 import TicketDetailsPage from "./pages/Ticket.jsx";
 import Login from "./pages/Login.jsx";
 import Signup from "./pages/signup.jsx";
